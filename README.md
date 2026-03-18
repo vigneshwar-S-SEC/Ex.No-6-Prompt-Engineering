@@ -46,7 +46,7 @@ else:
 
 ## Output:
 
-[View The PDF](EXP6.pdf) 
+[View The PDF](EX6.pdf) 
 
 
 ## Result: 
