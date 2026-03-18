@@ -14,7 +14,7 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 ## Code:
 
-    ```
+```
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
 
@@ -42,8 +42,15 @@ elif sentiment['compound'] <= -0.05:
 
 else:
     print("\nInsight: The review is neutral.")
-    ```
+```
+
 ## Output:
 
 [View The PDF](EXP6.pdf) 
+
+
 ## Result: 
+
+The Python program was successfully executed to perform sentiment analysis on the input text.
+The system accurately classified the sentiment as positive, negative, or neutral.
+Thus, the objective of generating insights using AI tools was achieved successfully.
